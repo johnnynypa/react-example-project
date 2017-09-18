@@ -13,5 +13,5 @@ Go for my post and read in spanish about the explain of this implement.
 ## Star it in Github
 Give me a Star in my repo and we could follow contributing.
 
-##Join the conversation!
+## Join the conversation!
 We'd love to hear your thoughts and suggestions. You can make your comments in my <a href="#">Medium Post</a>.
