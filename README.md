@@ -7,6 +7,8 @@ The post (spanish) where I spoke about it can be found at <a href="https://mediu
 ## Clone it
 Have full manage of this project cloning this repo and check the code included.
 
+Once you clone it, make a `composer update` and a `npm install` for run the project without problems.
+
 ## Read it
 Go for my post and read in spanish about the explain of this implement.
 
